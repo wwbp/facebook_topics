@@ -12,9 +12,7 @@ A set of 2000 topics captured in over 14 million Facebook status updates derived
 
 The goal is to get the probability of a topic given the document: 
 
-```
-p(topic|document)=p(topic|tok)xp(tok|document)
-```
+![image](http://wwbp.org/images/data_images/formula.png)
 
 For example, let's say we have topics with the following condition probabilities for words: 
 
